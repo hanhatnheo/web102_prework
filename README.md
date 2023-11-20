@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Navigation Bar for the Stats and Games sections!
+* [x] Navigation Bar for the Stats and Games sections.
 
 ## Video Walkthrough
 
@@ -34,7 +34,7 @@ GIF created with LICEcap.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I spent some time on ensuring responsive design!
 
 ## License
 
